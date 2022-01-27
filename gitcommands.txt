@@ -1,3 +1,4 @@
+cd C:\Users\Venera\Desktop\placeholder
 git add .
 git commit -m "commit project"
 git branch -M main
