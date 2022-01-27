@@ -1,4 +1,4 @@
-cd C:\Users\Venera\Desktop\placeholder
+cd %1
 git add .
 git commit -m "commit project"
 git branch -M main
