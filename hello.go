@@ -1,7 +1,8 @@
 package main
 
+
 func main() {
-	password := "123"
+	password := "12345"
 	println(password)
 	print("hello, yourself!")
 }
